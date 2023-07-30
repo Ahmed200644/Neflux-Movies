@@ -1,0 +1,14 @@
+{
+  "name": "netflex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "your-build-command-here"
+  },
+  "keywords": [], 
+  "author": "",
+  "license": "ISC"
+}
